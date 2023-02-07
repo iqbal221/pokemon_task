@@ -1,0 +1,7 @@
+.backgroundImage{
+    height:1080px;
+    width:1921px;
+    background-image:url('/Background.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
